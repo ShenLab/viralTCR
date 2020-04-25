@@ -6,7 +6,7 @@ A machine learning method to predict TCR-peptide binding
 1. T cells play a central role in viral response and vaccination.
 2. T cell receptor(TCR) - peptide binding provides specificity.
 ### Significance
-1. By predicting TCR-peptide binding, one can ”reverse engineer” the source peptides that triggered T cell response in patients.
+1. By predicting TCR-peptide binding, one can "reverse engineer" the source peptides that triggered T cell response in patients.
 2. Vaccine design: strong response from T cells is required for maturation and proliferation of antibody-producing B cells.
 ### Project Aim
 1. Predict binding specificity of TCR and peptides by machine learning.
