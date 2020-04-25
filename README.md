@@ -6,6 +6,7 @@ A machine learning method to predict TCR-peptide binding
 2. Search for SARS-CoV-2 peptides that elicit strong T cell response based on TCRs from COVID-19 patients. 
 
 ## Data
+
 ### Training and testing
 TCR specificity ([VDJdb](https://vdjdb.cdr3.net/search)), also, see downloaded VDJdb_TCR.tsv
 ### Application
