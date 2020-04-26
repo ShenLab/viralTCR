@@ -1,5 +1,5 @@
 # viralTCR
-A machine learning method to predict TCR-peptide binding
+A machine learning method to predict TCR-peptide binding and the method's application in COVID-19 patients
 
 ## Abstract
 ### Background
@@ -13,7 +13,7 @@ A machine learning method to predict TCR-peptide binding
 2. Search for SARS-CoV-2 peptides that elicit strong T cell response based on TCRs from COVID-19 patients. 
 ### Results
 1. Classification Model 10-folds Acc:77.20% ± 0.78%, auROC: 0.8648, auPRC: 0.8568.
-2. 2219 peptides have high binding prob. (score >0.9).
+2. 2219 SARS-CoV-2 peptides have high binding prob (score >0.9) among COVID-19 patients.
 3. Excluding healthy control,16 peptides appeared in more than 6 samples.
 ### Conclusions
 1. We proposed a supervised deep learning method to predict TCR-peptide binding.
