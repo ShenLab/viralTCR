@@ -38,3 +38,6 @@ Embedding six complementarity-determining regions and peptide
 Transfering embedded TCR-peptide pairs to reasonable dimension
 ### DNN
 Training model for TCR-peptide pairs binary classification
+
+Average ROC for repeated 10-fold cross validation:
+![alt text]()
