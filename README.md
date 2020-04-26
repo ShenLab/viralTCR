@@ -1,5 +1,5 @@
 # viralTCR
-A machine learning method to predict TCR-peptide binding and the method's application in COVID-19 patients
+A machine learning method to predict TCR-peptide binding and the method's application in COVID-19
 
 ## Abstract
 ### Background
